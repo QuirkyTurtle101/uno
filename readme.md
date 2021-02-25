@@ -10,4 +10,4 @@ Pop up besked når man har vundet "winner!"
 
 # Designspecifikationer
 ## Forside
-![Start screen](https://github.com/QuirkyTurtle101/uno/asset/The_real_start_screec.png)
+![Start screen](https://github.com/QuirkyTurtle101/uno/blob/main/asset/The_real_start_screec.png)
