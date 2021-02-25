@@ -32,4 +32,14 @@ Her er pause menuen. Her kan vi se en knap til at gå ud af spillet, en knap til
 
 # Tekniske specifikationer
 ## Klassediagram
-![Class diagram](https://github.com/QuirkyTurtle101/uno/blob/main/asset/2_player_game_with_menu_1.png)
+![Class diagram](https://github.com/QuirkyTurtle101/uno/blob/main/asset/uno%20class%20diagram.png)
+Vores klassediagram giver en oversigt over programmets funktion og måden den udføres på. Her kan vi altså se at spillet overordnet styres af et GameTracker objekt som bliver initialiseret ved spillets start. Dette objekt initialiserer så herefter et GameDeck objekt, og et variabelt antal Player objekter - i prototypen initialiseres altid fire. Under GameDeck bliver der herefter initialiseret 108 Card objekter - disse vil under spil blive flyttet til en arraylist på Player objekterne, så derfor indegår Card klassen også under Player klassen.
+
+## Flowchart
+![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchart.png)
+![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchart%20skip.png)
+![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchart%20reverse.png)
+![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchart%20plus%20two.png)
+![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchart%20plus%20four.png)
+![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchart%20wild.png)
+Her ses flowcharts over programmets funktion - nogle af wildcard-flowchartsne er dog ikke representative af programmets egentige funktion, da de ikke er fuldt implementerede.
