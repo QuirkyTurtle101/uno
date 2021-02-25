@@ -9,6 +9,7 @@ Pop up pause menu når man er “in game”
 Pop up besked når man har vundet "winner!"
 
 # Designspecifikationer
+Desværre var vi forhindrede i at implementere grafik til spillet grundet tekniske og tidsmessige problemer, men vi har dog mockups til vores design.
 ## Forside
 ![Start screen](https://github.com/QuirkyTurtle101/uno/blob/main/asset/The_real_start_screec.png)
 Her er hvordan forsiden på spillet skulle se ud. Hvert kort er en knap man kan trykke på. Det burde være ret tydeligt at se hvad knap der gør hvad.
@@ -31,3 +32,4 @@ Her er pause menuen. Her kan vi se en knap til at gå ud af spillet, en knap til
 
 # Tekniske specifikationer
 ## Klassediagram
+![Class diagram](https://github.com/QuirkyTurtle101/uno/blob/main/asset/2_player_game_with_menu_1.png)
