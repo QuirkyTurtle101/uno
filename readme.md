@@ -7,3 +7,7 @@ Man skal kunne vælge antal spiller
 En pop up besked til at skifte til næste spiller
 Pop up pause menu når man er “in game” 
 Pop up besked når man har vundet "winner!"
+
+# Designspecifikationer
+## Forside
+![Start screen](https://github.com/QuirkyTurtle101/uno/asset/The_real_start_screec.png)
