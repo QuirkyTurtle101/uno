@@ -73,6 +73,7 @@ class GameTracker{
       } else {
         currentPlayer++;
       }
+      hasDrawn = false;
       gameState = 1;
     }
   }
