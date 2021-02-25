@@ -37,9 +37,9 @@ Vores klassediagram giver en oversigt over programmets funktion og måden den ud
 
 ## Flowchart
 ![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchart.png)
-![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchart%20skip.png)
+![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchard%20skip.png)
 ![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchart%20reverse.png)
 ![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchart%20plus%20two.png)
 ![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchart%20plus%20four.png)
-![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchart%20wild.png)
+![Flowchart](https://github.com/QuirkyTurtle101/uno/blob/main/asset/flowchard%20wild.png)
 Her ses flowcharts over programmets funktion - nogle af wildcard-flowchartsne er dog ikke representative af programmets egentige funktion, da de ikke er fuldt implementerede.
